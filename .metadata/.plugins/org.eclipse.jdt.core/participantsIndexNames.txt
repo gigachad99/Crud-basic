@@ -1,0 +1,5 @@
+INDEX VERSION 1.131
+C:\Users\DucDo\crud_demo\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2686951197.index
+\ToDo-APP\src\main\resources
+C:\Users\DucDo\crud_demo\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2620490975.index
+\ToDo-APP\src\main\java
